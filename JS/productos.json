@@ -1,0 +1,184 @@
+
+[
+
+    {
+        "id": "perfume hombre-01",
+       "titulo":"Perfume Hombre 01",
+        "imagen":"./img/hombres/img1.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume hombre-02",
+       "titulo":"Perfume Hombre 02",
+        "imagen":"./img/hombres/img-2.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume hombre-03",
+       "titulo":"Perfume Hombre 03",
+        "imagen":"./img/hombres/img.3.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume hombre-04",
+       "titulo":"Perfume Hombre 04",
+        "imagen":"./img/hombres/img4.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume hombre-05",
+       "titulo":"Perfume Hombre 05",
+        "imagen":"./img/hombres/img5.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume hombre-06",
+       "titulo":"Perfume Hombre 06",
+        "imagen":"./img/hombres/img.6.jpg",
+        "categoria":{
+           "nombre":"Para Ellos",
+            "id":"ellos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-01",
+       "titulo":"Perfume Mujer 01",
+        "imagen":"./img/mujeres/perfume1.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-02",
+       "titulo":"Perfume Mujer 02",
+        "imagen":"./img/mujeres/perfume-2.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-03",
+       "titulo":"Perfume Mujer 03",
+        "imagen":"./img/mujeres/perfume3.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-04",
+       "titulo":"Perfume Mujer 04",
+        "imagen":"./img/mujeres/perfume4.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-05",
+       "titulo":"Perfume Mujer 05",
+        "imagen":"./img/mujeres/perfume5.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume mujer-06",
+       "titulo":"Perfume Mujer 06",
+        "imagen":"./img/mujeres/perfume6.jpg",
+        "categoria":{
+           "nombre":"Para Ellas",
+            "id":"ellas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niño-01",
+       "titulo":"Perfume Niño 01",
+        "imagen":"./img/niños/perfume1.jpg",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niña-02",
+       "titulo":"Perfume Niña 02",
+        "imagen":"./img/niños/perfume2.jpg",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niño-03",
+       "titulo":"Perfume Niño 03",
+        "imagen":"./img/niños/perfume3.png",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niña-04",
+       "titulo":"Perfume Niña 04",
+        "imagen":"./img/niños/perfume4.png",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niña-05",
+       "titulo":"Perfume Niña 05",
+        "imagen":"./img/niños/perfume5.jpg",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "perfume niño-06",
+       "titulo":"Perfume Niño 06",
+        "imagen":"./img/niños/perfume6.jpg",
+        "categoria":{
+           "nombre":"Para los mas chicos",
+            "id":"chicos"
+        },
+        "precio": 10000
+    }
+]
